@@ -1,5 +1,7 @@
 # register-login-form
 
+![login-register](https://raw.githubusercontent.com/goserg/register-login-form/master/screenshots/login-register.gif)
+
 ## Project setup
 ```
 npm install
